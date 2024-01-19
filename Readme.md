@@ -19,3 +19,8 @@ In this Project i used HTML , CSS , JavaScript to Create To Do List and it have 
 ---
 ![Screenshot (122)](https://github.com/Aadiii01/ToDoList/assets/134622355/d986ed16-9c04-4c04-8c62-e68c8ff16eb3)
 ---
+---
+
+- Git Repository link: https://github.com/Aadiii01/ToDoList
+- Video link: https://youtu.be/qWKPTpHimYg
+- Hosted link: https://to-do-list-nu-blush.vercel.app/
